@@ -1,0 +1,14 @@
+cf72a385fd4b1fea5e4de5cc0c018653 *DESCRIPTION
+7d4b196d749723f2a0b161f0a3cfdd9a *NAMESPACE
+bf1b801bf0f4e6c3c756b7b422d063d6 *R/GRAPE_Basic_Functions.R
+2363ba6619414c92ff212b0e3b2fa5b3 *R/GRAPE_Classification_Functions.R
+93078690c401b3fa240b5295f206f00d *R/GRAPE_Pathway_Score_Functions.R
+f5623cc1aeb1783b20d7d5a4732a05ba *man/getPathwayScores.Rd
+bb7497c339665012d7bf51cadc26e9c1 *man/makeBinaryTemplateAndProbabilityTemplate.Rd
+22dd6403d200f11d0d92284b8cc01f93 *man/makeGRAPE_psMat.Rd
+5ff650cac784ebdbc6c177be50e25e8f *man/makePairwiseOrder.Rd
+77dd9e91daff2353ecc50668a425864c *man/makePairwiseOrderNames.Rd
+c88dee0eb9b1b785d8d2af37bbb36a72 *man/predictClassDIRAC.Rd
+0ad7f7a503ea8a10b2117acc74046a7d *man/predictClassGRAPE.Rd
+56880940b5eb3ee984cfb6dfc8fc5991 *man/predictClassPC.Rd
+2c7d6c0c61b4d2af4d35a7c0bb24eadd *man/w_quad.Rd
