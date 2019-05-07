@@ -45,4 +45,3 @@ yhat <- predictClassDIRAC(trainmat,testmat,train_labels)
 sum(diag(table(test_labels,yhat)))/length(test_labels) # accuracy
 # [1] 0.7
 }
-

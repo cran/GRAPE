@@ -22,4 +22,3 @@ temp <- makeBinaryTemplateAndProbabilityTemplate(submat)
 bt <- temp$binary_template; pt <- temp$probability_template
 cbind(bt,pt)
 }
-

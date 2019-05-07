@@ -36,4 +36,3 @@ ps_both <- getPathwayScores(refmat,cbind(refmat,newmat)) ### get pathway scores 
 # [1]  6.2720  8.5696  9.9904  6.9056  3.7824  8.9344 13.0880 10.2912  3.7824
 # 0.0384 13.1136  6.8032  4.8512 12.8512 10.2912
 }
-

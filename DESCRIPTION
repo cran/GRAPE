@@ -1,7 +1,7 @@
 Package: GRAPE
 Type: Package
 Title: Gene-Ranking Analysis of Pathway Expression
-Version: 0.1.0
+Version: 0.1.1
 Author: Michael Klein <michael.klein@yale.edu>
 Maintainer: Michael Klein <michael.klein@yale.edu>
 Imports: stats
@@ -14,17 +14,15 @@ Description: Gene-Ranking Analysis of Pathway Expression (GRAPE) is a tool for
    samples as vectors of pathway scores, where each pathway score indicates the
    departure from a given collection of reference samples. The resulting pathway-
    space representation can be used as the feature set for various applications,
-   including survival analysis and drug-response prediction.
-   ----------------------------------------------------------------------------------------------
-       GRAPE is a generalization and extension of DIRAC, originally implemented in:
-   Eddy, J.A., et al. (2010) <DOI:10.1371/journal.pcbi.1000792>. As a result, some
-   of the software below may have been previously published in Matlab by the DIRAC
-   authors and can be found at:
-   https://price.systemsbiology.org/pricelab-resources/software/.
+   including survival analysis and drug-response prediction. 
+   Users of GRAPE should use the following citation:
+   Klein MI, Stern DF, and Zhao H. GRAPE: A pathway template method to characterize 
+   tissue-specific functionality from gene expression profiles. 
+   BMC Bioinformatics, 18:317 (June 2017).
 License: GPL-2
 LazyData: TRUE
-RoxygenNote: 5.0.1
+RoxygenNote: 6.1.1
 NeedsCompilation: no
-Packaged: 2016-08-24 22:45:48 UTC; michaelklein
+Packaged: 2019-05-07 17:44:01 UTC; michaelklein
 Repository: CRAN
-Date/Publication: 2016-08-25 09:59:05
+Date/Publication: 2019-05-07 22:12:24 UTC

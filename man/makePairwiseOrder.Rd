@@ -19,4 +19,3 @@ Takes in a vector of gene expression values and returns a binary vector consisti
 samp <- c(1,3,2,1.5)
 makePairwiseOrder(samp)
 }
-

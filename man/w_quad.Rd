@@ -19,4 +19,3 @@ Calculates the weights of all input entries. All entries should take values in [
 w_quad(0.95)
 w_quad(cbind(c(.7,.8),c(.9,.1)))
 }
-

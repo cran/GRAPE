@@ -19,4 +19,3 @@ Takes in vector of pathway gene names, returns names corresponding to the pairwi
 path_genes <- c("gene_A","gene_B","gene_C","gene_D")
 makePairwiseOrderNames(path_genes)
 }
-

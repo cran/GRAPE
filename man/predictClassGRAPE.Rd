@@ -47,4 +47,3 @@ yhat <- predictClassGRAPE(trainmat,testmat,train_labels,w_quad)
 sum(diag(table(test_labels,yhat)))/length(test_labels) # accuracy
 # [1] 0.8
 }
-
